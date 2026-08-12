@@ -26,5 +26,16 @@ h2{
 #html {
     color: green;
 }
-#css
-color: blue;
+#css {
+    color: green;
+}
+p{
+    font-size: 12px;
+}
+button{
+    background-color: darkslategray;
+    color: white;
+    padding: 10px 20px;
+border: none;
+border-radius: 20px;
+}

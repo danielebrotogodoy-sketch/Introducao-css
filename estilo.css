@@ -1,4 +1,30 @@
 body {
     background-color: aqua;
-    color:  blue
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
 }
+
+header {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+a {
+    color: white;
+    padding: 30px;
+}
+h2{
+    
+}
+#inicio {
+    color: red;
+}
+
+#html {
+    color: green;
+}
+#css
+color: blue;
